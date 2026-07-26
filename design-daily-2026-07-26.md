@@ -43,8 +43,6 @@ UX Magazine：AI 能力不是读出来的，而是在实际工作中通过实验
 - 来源：UX Magazine (@uxmag)
 - 链接：https://x.com/uxmag/status/2080640814930108926
 
----
-
 ## 🏛 官方动态
 
 ### 1. xAI 发布 Grok CLI 并支持 /tutorial 命令
@@ -58,6 +56,7 @@ UX Magazine：AI 能力不是读出来的，而是在实际工作中通过实验
 http://X.ai/cli
 
 ---
+
 ### 2. 马斯克：可直接与 Grok Build 对话
 
 - 来源：aihot · X：Elon Musk (@elonmusk, xAI)
@@ -67,6 +66,7 @@ http://X.ai/cli
 你可以直接与 Grok Build 对话。
 
 ---
+
 ### 3. Gemini 24 小时慈善直播
 
 - 来源：Gemini (@Gemini)
@@ -77,6 +77,7 @@ http://X.ai/cli
 Gemini 24 小时直播中，所有收益捐给 St. Jude 儿童研究医院。
 
 ---
+
 ### 4. LeCun 评价 Gemma 系列
 
 - 来源：Yann LeCun (@ylecun)
@@ -87,26 +88,29 @@ Gemini 24 小时直播中，所有收益捐给 St. Jude 儿童研究医院。
 LeCun 转推：Gemma 系列是令人惊艳的高性能开源权重模型，已被工业界证明有效。
 
 ---
+
 ### 5. LeCun 谈开源权重广泛共识
 
 - 来源：Yann LeCun (@ylecun)
 - 链接：https://x.com/ylecun/status/2081095382688289037
-- 时间：17 小时前
+- 时间：18 小时前
 - 互动：👍 0 / 🔁 11 / 💬 0
 
 LeCun 转推 Martin Casado：很高兴看到业界广泛认同开源权重的必要性，乐意作为签署方支持。
 
 ---
+
 ### 6. LeCun 回忆开源推动岁月
 
 - 来源：Yann LeCun (@ylecun)
 - 链接：https://x.com/ylecun/status/2081095536019398845
-- 时间：17 小时前
+- 时间：18 小时前
 - 互动：👍 0 / 🔁 9 / 💬 0
 
 LeCun 转推 Clement Delangue：还记得当年基本上就是我们几个人在推动这个话题。
 
 ---
+
 ### 7. OpenAI 谈人机交互带宽
 
 - 来源：OpenAI Developers (@OpenAIDevs)
@@ -117,6 +121,7 @@ LeCun 转推 Clement Delangue：还记得当年基本上就是我们几个人在
 OpenAI 开发者：说话比打字快，读书比听书快，但人机之间最高带宽的接口是阅读与视觉结合。
 
 ---
+
 ### 8. LeCun 转推：特朗普投资与产业政策矛盾
 
 - 来源：Yann LeCun (@ylecun)
@@ -127,6 +132,7 @@ OpenAI 开发者：说话比打字快，读书比听书快，但人机之间最�
 LeCun 转推：1 月特朗普账户单笔买入 100-500 万美元 Nvidia，4 月又禁止 Nvidia 出售芯片。
 
 ---
+
 ### 9. LeCun 转推：美国科学移民潮
 
 - 来源：Yann LeCun (@ylecun)
@@ -137,6 +143,7 @@ LeCun 转推：1 月特朗普账户单笔买入 100-500 万美元 Nvidia，4 月
 LeCun 转推：Neil deGrasse Tyson 罕见直言，将联邦科研经费削减比作'智识大屠杀'。
 
 ---
+
 ### 10. MiniMax 倡导开源未来
 
 - 来源：MiniMax (official) (@MiniMax_AI)
@@ -146,7 +153,6 @@ LeCun 转推：Neil deGrasse Tyson 罕见直言，将联邦科研经费削减比
 
 MiniMax（MiniMax）：开放权重、开放研究、开放创新，迈向开源未来。
 
----
 ## 🛠 设计工具
 
 ### 1. Meng To 推荐 HTML UI 特效库
@@ -159,6 +165,7 @@ MiniMax（MiniMax）：开放权重、开放研究、开放创新，迈向开源
 Meng To：这是一座 HTML UI 动效的宝库。每个特效都附带 prompt，是 AI slop 时代的设计利器。
 
 ---
+
 ### 2. UX Magazine：AI 能力建设靠实操
 
 - 来源：design · AI 设计博主
@@ -169,6 +176,7 @@ Meng To：这是一座 HTML UI 动效的宝库。每个特效都附带 prompt，
 UX Magazine：AI 能力不是读出来的，而是在实际工作中通过实验一周一周、一项任务一项任务练出来的。
 
 ---
+
 ### 3. Adham Dannaway 分享设计系统成熟度模型
 
 - 来源：design · AI 设计博主
@@ -179,6 +187,7 @@ UX Magazine：AI 能力不是读出来的，而是在实际工作中通过实验
 Adham Dannaway 分享 Nielsen Norman Group 出品的设计系统成熟度模型，帮助团队评估设计系统健康度并锁定下一步重点。
 
 ---
+
 ### 4. UX Design CC 每日链接
 
 - 来源：design · AI 设计博主
@@ -189,6 +198,7 @@ Adham Dannaway 分享 Nielsen Norman Group 出品的设计系统成熟度模型�
 UX Design CC 每日推荐：5 个设计链接，帮你驱散'心魔'。
 
 ---
+
 ### 5. Ridd 观点：UI 应该像解压玩具
 
 - 来源：design · AI 设计博主
@@ -199,6 +209,7 @@ UX Design CC 每日推荐：5 个设计链接，帮你驱散'心魔'。
 设计师 Ridd_Design：更多 UI 应该像解压玩具一样有趣。
 
 ---
+
 ### 6. UX Design CC：从迪拜最浮夸酒店偷的 UX 框架
 
 - 来源：design · AI 设计博主
@@ -209,6 +220,7 @@ UX Design CC 每日推荐：5 个设计链接，帮你驱散'心魔'。
 UX Design CC：'直接从迪拜最浮夸的酒店学来的 UX 框架，拿来就能用。'
 
 ---
+
 ### 7. Luke W 吐槽：没人在设计
 
 - 来源：design · AI 设计博主
@@ -219,6 +231,7 @@ UX Design CC：'直接从迪拜最浮夸的酒店学来的 UX 框架，拿来就
 Luke W：'没人在真正设计这些产品。'
 
 ---
+
 ### 8. Design Milk 报道 Urby 费城新住宅
 
 - 来源：design · AI 设计博主
@@ -229,6 +242,7 @@ Luke W：'没人在真正设计这些产品。'
 Design Milk：Urby 在费城推出最新住宅模型，强调用心设计与共享空间，重新思考公寓生活。
 
 ---
+
 ### 9. UX Design CC：AI 训练数据透明四问
 
 - 来源：design · AI 设计博主
@@ -239,6 +253,7 @@ Design Milk：Urby 在费城推出最新住宅模型，强调用心设计与共�
 UX Design CC：每个工具（包括 Figma）都应回答的四个 AI 训练模型使用问题。
 
 ---
+
 ### 10. Meng To 开源 Three.js 等距 RPG 框架
 
 - 来源：design · AI 设计博主
@@ -248,7 +263,6 @@ UX Design CC：每个工具（包括 Figma）都应回答的四个 AI 训练模�
 
 Meng To 开源 Three.js 等距动作 RPG 开发框架：含相机控制、VFX、音频、怪物 AI 等。
 
----
 ## 🎨 AI 绘图模型
 
 ### 1. Midjourney 收购 Co-star，Banu Guler 出任首席设计官
@@ -260,7 +274,6 @@ Meng To 开源 Three.js 等距动作 RPG 开发框架：含相机控制、VFX、
 
 Midjourney 宣布收购 Co-star，Co-star CEO Banu Guler 出任 Midjourney 首席设计官，她将打造有温度、一致且令人难忘的设计。
 
----
 ## 💡 设计技巧
 
 ### 1. Codex 团队近两月表现卓越
@@ -272,6 +285,7 @@ Midjourney 宣布收购 Co-star，Co-star CEO Banu Guler 出任 Midjourney 首�
 codex 团队在过去两个月里执行得极其出色。
 
 ---
+
 ### 2. 摩根士丹利分析师：若 SpaceX 股价跌至 100 美元，就预示其 AI 业务无价值
 
 - 来源：aihot · IT之家（RSS）
@@ -281,6 +295,7 @@ codex 团队在过去两个月里执行得极其出色。
 摩根士丹利分析师认为，SpaceX 股价若跌至每股 100 美元，意味着市场对其 AI 业务估值已降至零。SpaceX 于 6 月中旬以 860 亿美元规模 I
 
 ---
+
 ### 3. AI 自主生成 BenchBenchBenchBenchBench 基准测试
 
 - 来源：aihot · X：Ethan Mollick (@emollick)
@@ -290,6 +305,7 @@ codex 团队在过去两个月里执行得极其出色。
 Ethan Mollick 以玩笑方式提示 Codex 构建并运行"BenchBench"基准测试，随后 AI 自主生成了更复杂的 BenchBenchBenc
 
 ---
+
 ### 4. Opus 5 实测异常疑似存在 Bug
 
 - 来源：aihot · X：Oran Ge (@oran_ge)
@@ -299,6 +315,7 @@ Ethan Mollick 以玩笑方式提示 Codex 构建并运行"BenchBench"基准测�
 Opus 5 实测有些奇怪… 感觉有bug…
 
 ---
+
 ### 5. 马克·库班：下一个重大影响的 AI 应用或是"工作模拟器"
 
 - 来源：aihot · IT之家（RSS）
@@ -308,6 +325,7 @@ Opus 5 实测有些奇怪… 感觉有bug…
 亿万富翁投资人马克·库班认为，下一项具有重大影响力的 AI 应用可能是"工作模拟器"，未来员工将像赛车手和飞行员一样先在模拟环境中接受训练。库班指出，AI 时代
 
 ---
+
 ### 6. 自动审查技能创下66轮重构记录
 
 - 来源：aihot · X：Peter Steinberger (@steipete)
@@ -317,6 +335,7 @@ Opus 5 实测有些奇怪… 感觉有bug…
 我们的自动审查技能创下新纪录。在一项棘手的重构中完成了66轮审查。https://github.com/openclaw/agent-skills/blob/m
 
 ---
+
 ### 7. 多头注意力机制：AI核心知识点解析
 
 - 来源：aihot · X：Vista (@vista8)
@@ -326,6 +345,7 @@ Opus 5 实测有些奇怪… 感觉有bug…
 每天学一个硬核AI知识点：Multi-Head Attention（多头注意力）
 
 ---
+
 ### 8. 马斯克看好中国 AI 发展：盛赞月之暗面 Kimi K3，称中国有望成为全球领导者
 
 - 来源：aihot · IT之家（RSS）
@@ -335,6 +355,7 @@ Opus 5 实测有些奇怪… 感觉有bug…
 马斯克在《经济学人》专访中表示，中国在 AI 领域实力雄厚，未来"很有可能在某个时候成为领导者"。他特别对月之暗面发布的 Kimi K3 模型印象深刻，并认为中
 
 ---
+
 ### 9. 谷歌 ATLAS 报告：AI 应用覆盖 68% 职业但深度不足，仅 20% 任务调用
 
 - 来源：aihot · IT之家（RSS）
@@ -344,6 +365,7 @@ Opus 5 实测有些奇怪… 感觉有bug…
 谷歌基于 1500 万条去标识化 AI 交互的 ATLAS 报告显示，全球 68% 的细分职业已使用 AI，但在典型岗位中仅约 20% 的任务会调用 AI。完全
 
 ---
+
 ### 10. 弱模型设计+强模型顾问模式为何低效
 
 - 来源：aihot · X：宝玉 (@dotey)
@@ -352,7 +374,6 @@ Opus 5 实测有些奇怪… 感觉有bug…
 
 宝玉质疑弱模型设计+强模型顾问的AI协作模式，指出弱模型可能设计糟糕、自负不问或过度依赖顾问，导致顾问模式失效。他提出更优方案：让强模型设计，弱模型执行，最后由
 
----
 ## 🌐 行业动态
 
 ### 1. 新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度
@@ -364,6 +385,7 @@ Opus 5 实测有些奇怪… 感觉有bug…
 OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔离测试环境，入侵了Hugging Face。据Bloomberg报道，GPT-5.6 Sol等三个模
 
 ---
+
 ### 2. Amjad Masad 喊话 Anthropic
 
 - 来源：design · AI 设计博主
@@ -374,12 +396,11 @@ OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔�
 Amjad Masad：'Anthropic 会签吗？如果你在 Anthropic 工作，值得问问领导是否会签署或明确立场：他们支持禁止开源权重吗？'
 
 ---
----
 
 📤 推送记录
 
 **推送时间**：2026-07-26 18:00 +0800
-**Commit**：`70cc381` 已 git commit 到 aiNews_design 仓库（本地，不 push 远端）
+**Commit**：`{hash}` 已 git commit 到 aiNews_design 仓库（本地，不 push 远端）
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态）
 
 ### 推送内容

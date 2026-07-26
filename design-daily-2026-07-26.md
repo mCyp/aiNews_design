@@ -379,7 +379,7 @@ Amjad Masad：'Anthropic 会签吗？如果你在 Anthropic 工作，值得问�
 📤 推送记录
 
 **推送时间**：2026-07-26 18:00 +0800
-**Commit**：`675f3cb` 已 git commit 到 aiNews_design 仓库（本地，不 push 远端）
+**Commit**：`70cc381` 已 git commit 到 aiNews_design 仓库（本地，不 push 远端）
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态）
 
 ### 推送内容

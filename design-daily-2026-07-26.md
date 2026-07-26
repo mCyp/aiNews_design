@@ -61,7 +61,7 @@ http://X.ai/cli
 
 - 来源：aihot · X：Elon Musk (@elonmusk, xAI)
 - 链接：https://aihot.virxact.com/items/cms16gdgg0238ro0wcjn9oa4g
-- 时间：10 小时前
+- 时间：11 小时前
 
 你可以直接与 Grok Build 对话。
 
@@ -82,7 +82,7 @@ Gemini 24 小时直播中，所有收益捐给 St. Jude 儿童研究医院。
 
 - 来源：Yann LeCun (@ylecun)
 - 链接：https://x.com/ylecun/status/2081066112414785725
-- 时间：19 小时前
+- 时间：20 小时前
 - 互动：👍 0 / 🔁 8 / 💬 0
 
 LeCun 转推：Gemma 系列是令人惊艳的高性能开源权重模型，已被工业界证明有效。
@@ -115,7 +115,7 @@ LeCun 转推 Clement Delangue：还记得当年基本上就是我们几个人在
 
 - 来源：OpenAI Developers (@OpenAIDevs)
 - 链接：https://x.com/OpenAIDevs/status/2081098109405589615
-- 时间：17 小时前
+- 时间：18 小时前
 - 互动：👍 0 / 🔁 38 / 💬 0
 
 OpenAI 开发者：说话比打字快，读书比听书快，但人机之间最高带宽的接口是阅读与视觉结合。
@@ -400,7 +400,7 @@ Amjad Masad：'Anthropic 会签吗？如果你在 Anthropic 工作，值得问�
 📤 推送记录
 
 **推送时间**：2026-07-26 18:00 +0800
-**Commit**：`f4b051e` 已 git commit 到 aiNews_design 仓库（本地，不 push 远端）
+**Commit**：`{hash}` 已 git commit 到 aiNews_design 仓库（本地，不 push 远端）
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态）
 
 ### 推送内容

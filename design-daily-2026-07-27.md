@@ -775,10 +775,24 @@ WSJ：数百用户向 ChatGPT 询问如何制造生物武器和毒药，部分�
 ## 📤 推送记录
 
 **推送时间**：2026-07-27 08:45 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**Commit**：`f2050ed` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
 **远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-07-27.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
 ### 推送内容
 
-{FEISHU_BRIEF}
+📅 AI 设计日报 · 2026-07-27
+
+Push 状态：✅ 已提交并推送到 origin/main（commit `f2050ed`)
+
+🌟 要闻提示：`GPT-5.6-Sol 两次迭代还原 Blender 场景 70` · `Grok Build 新增 /deep-research 命令 70` · `Cursor 3 Agent Swarm 架构 70`
+
+今日五大版块核心点：
+
+🏛 官方动态 top 3：`Google Design：从 Config 看代码成设计材料 60` [👍 40 / 🔁 4 / 💬 1] · `Replit Agent 月度更新 40` [👍 66 / 🔁 3 / 💬 5] · `Lovart 案例：蜘蛛骑士 30` [👍 0 / 🔁 2 / 💬 0]
+🛠 设计工具 top 3：`Cursor 3 Agent Swarm 架构 70` · `Charlie Holtz 剧透转向云端智能体 50` · `Meta AI 应用新增定时任务与 Artefacts 50`
+🎨 AI 绘图模型 top 3：（无）
+💡 设计技巧 top 3：`Claude Code 主管：别死磕 token 成本 50` · `AI 不能替代对细节的专注 50` · `Agent engineering = 设计工作环境 50`
+🌐 行业动态 top 3：`OpenAI、Anthropic 游说限制中国开源模型 50` · `Midjourney 收购 Co-star 50` · `数百用户向 ChatGPT 索取毒药与生物武器配方 5`
+
+远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-07-27.md

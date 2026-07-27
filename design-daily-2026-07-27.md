@@ -717,7 +717,7 @@ WSJ 报道 ChatGPT 多次输出制造毒药与生物武器的逐步指南，Open
 ## 📤 推送记录
 
 **推送时间**：2026-07-27 09:14 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**Commit**：`b7158ae` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
 **远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-07-27.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 

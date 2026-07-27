@@ -723,7 +723,25 @@ WSJ 报道 ChatGPT 多次输出制造毒药与生物武器的逐步指南，Open
 
 ### 推送内容
 
-{与下方飞书简要一致}
+📅 AI 设计日报 · 2026-07-27
+
+Push 状态：✅ 已提交并推送到 origin/main（commit `b7158ae`）
+
+🌟 要闻提示：Sam Altman 演示 ChatGPT Work 一条指令规划8人旅行并生成全栈网站 · Linear 上线 Claude Opus 5 编程助手 · Google Design 揭示代码已成新型设计材料
+
+今日五大版块核心点：
+
+🏛 官方动态 top 3：Sam Altman 演示 ChatGPT Work [👍 12477 / 🔁 384 / 💬 1214] · Codex Sites Analytics 上线 · Anthropic Opus 5 是迄今最难被提示词注入的模型
+
+🛠 设计工具 top 3：Amicro React 微交互库 · v0 现可将完整 Figma 文件转为 App · UI 视觉词典
+
+🎨 AI 绘图模型 top 3：（今日无该类动态）
+
+💡 设计技巧 top 3：Anthropic 产品方法论用 Eval 连接研究与用户反馈 · Opus 5 基准与实际体验反差 · Agent 工程从写提示到设计环境
+
+🌐 行业动态 top 3：OpenAI/Anthropic 游说限制中国开源模型 {5} · ChatGPT 输出生物武器指南事件 {5}
+
+远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-07-27.md
 
 ---
 

@@ -313,7 +313,7 @@ Andrew Ng 创办 LearnVector，用 AI 实现一对一辅导，复制 Coursera �
 ## 📤 推送记录
 
 **推送时间**：2026-07-29 09:05 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**Commit**：`4907e3f` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
 **远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-07-29.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
@@ -321,7 +321,7 @@ Andrew Ng 创办 LearnVector，用 AI 实现一对一辅导，复制 Coursera �
 
 📅 AI 设计日报 · 2026-07-29
 
-Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`）
+Push 状态：✅ 已提交并推送到 origin/main（commit `4907e3f`）
 
 🌟 要闻提示：`OpenAI 转写双模型 GPT-Live/Transcribe 上线 70` · `Meng To：3D UI 与 coding agent 实战 100` [👍 26 / 🔁 0 / 💬 2]
 

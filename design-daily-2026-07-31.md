@@ -377,15 +377,15 @@ Amjad 转推 Replit 14,075 人同上一节 AI 视频课创吉尼斯纪录，强�
 ## 📤 推送记录
 
 **推送时间**：2026-07-31 08:45 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
-**远程地址**：{FILE_URL}
+**Commit**：`5dfb48f` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-07-31.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
 ### 推送内容
 
 📅 AI 设计日报 · 2026-07-31
 
-Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`）
+Push 状态：✅ 已提交并推送到 origin/main（commit `5dfb48f`）
 
 🌟 要闻提示：`Google Earth 上线 Nano Banana 2 图像生成 100` · `Amjad 用 Replit Design 一键生成宣传册 80` · `Meng To 转推：开源 UI 库让 vibe-coded 项目告别千篇一律 80`
 
@@ -405,4 +405,4 @@ Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`）
 
 ---
 
-[step 4 done] aiNews_design/design-daily-2026-07-31.md | sections=官方(18) 设计工具(6) AI绘图(0) 技巧(10) 行业(2) | total=36 | commit={CONTENT_HASH} | head={PUSH_HEAD} | push=origin/main | feishu=sent | url={FILE_URL}
+[step 4 done] aiNews_design/design-daily-2026-07-31.md | sections=官方(18) 设计工具(6) AI绘图(0) 技巧(10) 行业(2) | total=36 | commit=5dfb48f | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-07-31.md

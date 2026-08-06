@@ -349,7 +349,7 @@ Figma 营收 $370M，同比增速 48%，连续第三季度加速。
 
 **推送时间**：2026-08-06 08:45 +0800
 **Commit**：`**CONTENT_HASH_PLACEHOLDER**` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
-**远程地址**：https://github.com/__OWNER__/__REPO__/blob/main/design-daily-2026-08-06.md
+**远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-06.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
 ### 推送内容

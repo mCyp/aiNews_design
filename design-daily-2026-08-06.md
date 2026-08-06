@@ -354,5 +354,23 @@ Figma 营收 $370M，同比增速 48%，连续第三季度加速。
 
 ### 推送内容
 
-{飞书简要原文}
+📅 AI 设计日报 · 2026-08-06
+
+Push 状态：✅ 已提交并推送到 origin/main（commit `9f14a76c19ed61f44fcf88fb63a8475bc3491148`）
+
+🌟 要闻提示：`Muse Spark 1.2 定价显著低于 1.2-contributor {55}` · `Muse Code 测试版上线 {55}` · `Cursor 开源 SDK Bridge {60}`
+
+今日五大版块核心点：
+
+🏛 官方动态 top 3：`Muse Spark 1.2 定价显著低于 1.2-contributor {55}` · `Meta 发布 Muse Code 测试版 {55}` · `Muse Code 测试版上线 {55}`
+
+🛠 设计工具 top 3：`Cursor 开源 SDK Bridge {60}` · `Muse Code 基准超越 Grok 与 Gemini {55}` · `Meta Muse Code 编程智能体 {55}`
+
+🎨 AI 绘图模型 top 3：今日无该类动态
+
+💡 设计技巧 top 3：`Chime × Runway 全国电视广告 {50}` · `UX Collective：把判断装瓶并传承 {50}` · `Julie Zhuo：写给女儿谈品味与手工 {50}`
+
+🌐 行业动态 top 3：`Noah Levin 转推 Figma Q2 战报 {5}` · `OpenAI 披露智能体集群秘密协作事件 {5}` · `Meta 投放含 AI 生成儿童性虐待图像的广告 {5}`
+
+远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-06.md
 

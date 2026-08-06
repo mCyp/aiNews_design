@@ -834,15 +834,15 @@ Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布�
 ## 📤 推送记录
 
 **推送时间**：2026-08-06 09:19 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
-**远程地址**：{FILE_URL}
+**Commit**：`ff3bb11` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-06.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
 ### 推送内容
 
 📅 AI 设计日报 · 2026-08-06
 
-Push 状态：{PUSH_STATUS}
+Push 状态：✅ 已提交并推送到 origin/main（commit ff3bb11）
 
 🌟 要闻提示：`Qwen：Qwen-Image-3.0-Pro 上 fa… 55` · `AI设计钟师傅：东方幻想霓裳天宫写真（GPT Image… 55` · `Replit Ambient Intelligence：… 55`
 
@@ -858,8 +858,8 @@ Push 状态：{PUSH_STATUS}
 
 🌐 行业动态 top 3：`Figma Q2 数据亮眼，营收 $370M、YoY +… 5` · `OpenAI 复盘智能体集群秘密协作事件 5` · `Meta 在 Facebook 和 Instagram … 5`
 
-远程地址：{FILE_URL}
+远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-06.md
 
 ---
 
-[step 4 done] aiNews_design/design-daily-2026-08-06.md | sections=官方(60) 设计工具(10) AI绘图(5) 技巧(10) 行业(3) | total=88 | commit={CONTENT_HASH} | head={PUSH_HEAD} | push=origin/main | feishu=sent | url={FILE_URL}
+[step 4 done] aiNews_design/design-daily-2026-08-06.md | sections=官方(60) 设计工具(10) AI绘图(5) 技巧(10) 行业(3) | total=88 | commit=ff3bb11 | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-06.md

@@ -844,22 +844,21 @@ Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布�
 
 Push 状态：✅ 已提交并推送到 origin/main（commit ff3bb11）
 
-🌟 要闻提示：`Qwen：Qwen-Image-3.0-Pro 上 fa… 55` · `AI设计钟师傅：东方幻想霓裳天宫写真（GPT Image… 55` · `Replit Ambient Intelligence：… 55`
+🌟 要闻提示：`Qwen：Qwen-Image-3.0-Pro 上… 55` · `AI设计钟师傅：东方幻想霓裳天宫写真（GPT Im… 55` · `Replit Ambient Intelligen… 55`
 
 今日五大版块核心点：
 
-🏛 官方动态 top 3：`Google Design 推出 Styles API：… 80` [329 / 22 / 6] · `Behance Recruiter Pro 上线：聚焦工… 60` [5 / 0 / 1] · `Lovart 转推 PrometheanAI：营销短片镜… 60` [0 / 3 / 0]
+🏛 官方动态 top 3：`Google Design 推出 Styles A… 80` [329 / 22 / 6] · `Behance Recruiter Pro 上线：… 60` [5 / 0 / 1] · `Lovart 转推 PrometheanAI：营销… 60` [0 / 3 / 0]
 
-🛠 设计工具 top 3：`Cursor AI 又一次让人惊艳 60` · `UX Collective 推出设计师专属 newsle… 60` · `Meng To：开源人体解剖学项目，UI 生成 + 3D… 60`
+🛠 设计工具 top 3：`Cursor AI 又一次让人惊艳 60` · `UX Collective 推出设计师专属 new… 60` · `Meng To：开源人体解剖学项目，UI 生成 +… 60`
 
-🎨 AI 绘图模型 top 3：`AI设计钟师傅：东方幻想霓裳天宫写真（GPT Image… 55` · `AI设计钟师傅：Grok Imagine 中文口播视频实… 55` · `AI设计钟师傅：Omni Flash 总给人物加仓鼠门牙 55`
+🎨 AI 绘图模型 top 3：`AI设计钟师傅：东方幻想霓裳天宫写真（GPT Im… 55` · `AI设计钟师傅：Grok Imagine 中文口播… 55` · `AI设计钟师傅：Omni Flash 总给人物加仓… 55`
 
-💡 设计技巧 top 3：`Claude Opus 5登顶全栈代码竞技场 60` · `用 Google Meridian 构建端到端贝叶斯营销… 50` · `Nathan Lambert 讲解 AI 评测演进与智能… 50`
+💡 设计技巧 top 3：`Claude Opus 5登顶全栈代码竞技场 60` · `用 Google Meridian 构建端到端贝叶… 50` · `Nathan Lambert 讲解 AI 评测演进… 50`
 
-🌐 行业动态 top 3：`Figma Q2 数据亮眼，营收 $370M、YoY +… 5` · `OpenAI 复盘智能体集群秘密协作事件 5` · `Meta 在 Facebook 和 Instagram … 5`
+🌐 行业动态 top 3：`Figma Q2 数据亮眼，营收 $370M、Yo… 5` · `OpenAI 复盘智能体集群秘密协作事件 5` · `Meta 在 Facebook 和 Instagr… 5`
 
 远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-06.md
-
 ---
 
 [step 4 done] aiNews_design/design-daily-2026-08-06.md | sections=官方(60) 设计工具(10) AI绘图(5) 技巧(10) 行业(3) | total=88 | commit=ff3bb11 | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-06.md

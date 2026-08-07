@@ -319,7 +319,7 @@ superebola/acc 🚀🚀🚀
 ## 📤 推送记录
 
 **推送时间**：2026-08-07 08:45 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**Commit**：`bcf8077` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
 **远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-07.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
@@ -327,7 +327,7 @@ superebola/acc 🚀🚀🚀
 
 📅 AI 设计日报 · 2026-08-07
 
-Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`）
+Push 状态：✅ 已提交并推送到 origin/main（commit `bcf8077`）
 
 🌟 要闻提示：`H3 进入 Luma Agents：可生成 15 秒 2K + 立体声视频 100` · `H3 上线 gmi_cloud 平台 65` · `MiniMax 转推 SambaNova SN50 基准测试 35`
 

@@ -486,10 +486,30 @@ ridd_design 吐槽 Cursor 最近又出招，让设计师社区感到有点荒谬
 ## 📤 推送记录
 
 **推送时间**：2026-08-08 08:45 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
-**远程地址**：https://github.com/<owner>/<repo>/blob/main/design-daily-2026-08-08.md
+**Commit**：`64c1ee3` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-08.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
 ### 推送内容
 
-{FEISHU_BRIEF}
+📅 AI 设计日报 · 2026-08-08
+
+Push 状态：✅ 已提交并推送到 origin/main（commit `64c1ee3`）
+
+🌟 要闻提示：`MiniMax H3 生物发光生物演示： 90` [👍 70 / 🔁 4 / 💬 5] · `Runway 上线 Seedance 2 90` · `Appshot：用截图生成可运行的应用 100`
+
+今日五大版块核心点：
+
+🏛 官方动态 top 3：`lovart：Seedance 2.0  90` [👍 43 / 🔁 3 / 💬 13] · `Adobe 推出 ChatGPT 插件： 70` [👍 172 / 🔁 39 / 💬 19] · `Linear 编程会话支持签名提交 70` [👍 89 / 🔁 2 / 💬 1]
+
+🛠 设计工具 top 3：`Appshot：用截图生成可运行的应用 100` · `千问功能上新：定时任务、办公助理、语音通 90` · `阿里千问 App 新功能：定时任务、办公 90`
+
+🎨 AI 绘图模型 top 3：`谷歌推出 WeatherNext Cyc 70` · `蚂蚁百灵开源 Ling-3.0-flas 70`
+
+💡 设计技巧 top 3：`Designing With AI? M 100` · `GPT Image2 唐代花影酒意马球场 90` [👍 36 / 🔁 3 / 💬 65] · `GPT Image2 唐代蹴鞠与春宴四色 90` [👍 6 / 🔁 0 / 💬 19]
+
+🌐 行业动态 top 3：`ridd_design：Cursor 又 5` [👍 141 / 🔁 2 / 💬 16] · `Figma Q2 2026：3.7 亿营 5` [👍 0 / 🔁 67 / 💬 0] · `Amasad 转推 Replit CEO 5` [👍 0 / 🔁 4 / 💬 0]
+
+远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-08.md
+
+[step 4 done] aiNews_design/design-daily-2026-08-08.md | sections=官方(24) 设计工具(10) AI绘图(2) 技巧(10) 行业(3) | total=49 | commit=64c1ee3 | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-08.md

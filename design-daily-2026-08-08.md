@@ -512,4 +512,4 @@ Push 状态：✅ 已提交并推送到 origin/main（commit `64c1ee3`）
 
 远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-08.md
 
-[step 4 done] aiNews_design/design-daily-2026-08-08.md | sections=官方(24) 设计工具(10) AI绘图(2) 技巧(10) 行业(3) | total=49 | commit=64c1ee3 | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-08.md
+[step 4 done] aiNews_design/design-daily-2026-08-08.md | sections=官方(24) 设计工具(10) AI绘图(2) 技巧(10) 行业(3) | total=49 | commit=64c1ee3 | head=42b0049 | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-08.md

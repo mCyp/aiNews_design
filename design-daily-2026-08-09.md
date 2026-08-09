@@ -354,7 +354,7 @@ OpenAI 意外攻击 Hugging Face 事件时间线公布，事件经过与各方�
 ## 📤 推送记录
 
 **推送时间**：2026-08-09 09:31 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**Commit**：`7b90c92` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
 **远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-09.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
@@ -362,7 +362,7 @@ OpenAI 意外攻击 Hugging Face 事件时间线公布，事件经过与各方�
 
 📅 AI 设计日报 · 2026-08-09
 
-Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`）
+Push 状态：✅ 已提交并推送到 origin/main（commit `7b90c92`）
 
 🌟 要闻提示：MiniMax H3 开源 4 天社区搞定蒸馏 LoRA `70` · MengTo 开源 Kage 落地页与 three.js 技能 `100` · drmrzhong：多轮图像编辑通病仍存在 `100`
 

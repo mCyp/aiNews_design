@@ -351,6 +351,7 @@ OpenAI 意外攻击 Hugging Face 事件时间线公布，事件经过与各方�
 
 ---
 
+
 ## 📤 推送记录
 
 **推送时间**：2026-08-09 09:31 +0800
@@ -364,18 +365,18 @@ OpenAI 意外攻击 Hugging Face 事件时间线公布，事件经过与各方�
 
 Push 状态：✅ 已提交并推送到 origin/main（commit `7b90c92`）
 
-🌟 要闻提示：MiniMax H3 开源 4 天社区搞定蒸馏 LoRA `70` · MengTo 开源 Kage 落地页与 three.js 技能 `100` · drmrzhong：多轮图像编辑通病仍存在 `100`
+🌟 要闻提示：MiniMax H3 4天社区 LoRA [70] · MengTo Kage 落地页 [100] · drmrzhong：多轮编辑通病 [100]
 
 今日五大版块核心点：
 
-🏛 官方动态 top 3：Boris Cherny：Claude Code Auto Mode 拦截间接提示注入 `70` [👍 2116 / 🔁 130 / 💬 146] · OpenCode v2 内置 tool search 与 codemode `70` · OpenCode：周五跑 9T tokens `35`
+🏛 官方动态：bcherny AutoMode 拦截 [70] [👍 2116 / 🔁 130 / 💬 146] · OpenCode v2 search [70] · bcherny 团队用 [50]
 
-🛠 设计工具 top 3：MengTo 开源 Kage 落地页与 three.js 技能 `100` · Dialkit：单滑块改全局 border-radius `100` · Boris Cherny：Claude Code Auto Mode 拦截间接提示注入 `70`
+🛠 设计工具：MengTo Kage [100] · Dialkit [100] · bcherny AutoMode 拦截 [70]
 
-🎨 AI 绘图模型 top 3：MiniMax H3 开源 4 天社区搞定蒸馏 LoRA `70` · drmrzhong 转发 Grok Imagine Image 2.0 发布 `40` · Grok Imagine 图像编辑迎来重大升级 `90`
+🎨 AI 绘图模型：MiniMax H3 LoRA [70] · Grok Image 2.0 [40] · Grok Imagine 升级 [90]
 
-💡 设计技巧 top 3：drmrzhong：多轮图像编辑通病仍存在 `100` · drmrzhong：唐时檐下接雨 GPT Image 2 提示词 `90` · Flux 3 畅想太空邮轮之旅 `90`
+💡 设计技巧：drmrzhong 多轮编辑 [100] · drmrzhong 唐时檐下 [90] · Flux 3 邮轮 [90]
 
-🌐 行业动态 top 3：Gemini 关注 CLARITY Act 立法节奏 `5` · OpenAI 意外攻击 Hugging Face 事件时间线出炉 `5`
+🌐 行业动态：Gemini CLARITY [5] · OpenAI 攻击 HuggingFace [5]
 
 远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-09.md

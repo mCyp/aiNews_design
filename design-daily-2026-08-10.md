@@ -561,14 +561,32 @@ ridd_design 撰文谈 '技术愿景' 作为设计师的核心能力。
 ## 📤 推送记录
 
 **推送时间**：2026-08-10 08:50 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**Commit**：`dc46aed` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
 **远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-10.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
 ### 推送内容
 
-{{FEISHU_BRIEF}}
+📅 AI 设计日报 · 2026-08-10
+
+Push 状态：✅ 已提交并推送到 origin/main（commit `dc46aed`）
+
+🌟 要闻提示：`drmrzhong 转推 MiniMax H3 测试片黄金时代 90` · `Dialkit 单滑块改全局 border-radius 100` · `Lovart 上线 Seedance 2.5 单图变 30 秒 vlog 100`
+
+今日五大版块核心点：
+
+🏛 官方动态 top 3：`Lovart 上线 Seedance 2.5 单图变 30 秒 vlog 100` [👍 91 / 🔁 15 / 💬 36] · `Dribbble A$AP Rocky 合作翻车 50` [👍 13 / 🔁 0 / 💬 3] · `Replit 一键迁 Clerk 鉴权 50` [👍 61 / 🔁 7 / 💬 6]
+
+🛠 设计工具 top 3：`Dialkit 单滑块改全局 border-radius 100` · `MengTo 开源 Kage 落地页与 three.js 技能 100` · `MengTo 3D 滚动落地页 922 KB 复刻视频站 100`
+
+🎨 AI 绘图模型 top 3：`drmrzhong 转推 MiniMax H3 测试片黄金时代 90` · `drmrzhong Grok Image 2 元素拆得干净 70` · `drmrzhong 转推 Grok Imagine Image 2.0 发布 40`
+
+💡 设计技巧 top 3：`drmrzhong 多轮图像编辑通病 100` · `drmrzhong 浮世绘写真 GPT Image 2 提示词 90` · `drmrzhong 天宫花宴 GPT Image 2 提示词 90`
+
+🌐 行业动态 top 3：`宇树科技启动申购人形机器人第一股 5` · `AI 安全测试成新风险 5`
+
+远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-10.md
 
 ---
 
-[step 4 done] aiNews_design/design-daily-2026-08-10.md | sections=官方(33) 设计工具(10) AI绘图(3) 技巧(10) 行业(2) | total=58 | commit={CONTENT_HASH} | head={PUSH_HEAD} | push=origin/main | feishu=sent | url={FILE_URL}
+[step 4 done] aiNews_design/design-daily-2026-08-10.md | sections=官方(33) 设计工具(10) AI绘图(3) 技巧(10) 行业(2) | total=58 | commit=dc46aed | head={PUSH_HEAD} | push=origin/main | feishu=sent | url={FILE_URL}

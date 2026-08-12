@@ -813,13 +813,31 @@ Replit CEO amasad 转推自己在 Platformer 谈"自运行公司"形态的内容
 ## 📤 推送记录
 
 **推送时间**：2026-08-12 08:45 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**Commit**：`8293c49` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
 **远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-12.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
 ### 推送内容
 
-> {PLACEHOLDER_FEISHU_BRIEF}
+> 📅 AI 设计日报 · 2026-08-12
+
+Push 状态：✅ 已提交并推送到 origin/main（commit `8293c49`）
+
+🌟 要闻提示：`Mac 原生 MiniMax H3 推理 40` · `Runway Seedance 2.5（50 角色参考）75` · `MengTo Three.js 互动塔楼站 80`
+
+今日五大版块核心点：
+
+🏛 官方动态 top 3：`GoogleDesign Achiev 庆祝动效 55` [👍 119 / 🔁 3 / 💬 0] · `Adobe 室内门改假窗 55` [👍 0 / 🔁 0 / 💬 0] · `Dribbble 礼宾+Fintech 双 Brief 50` [👍 0 / 🔁 0 / 💬 0]
+
+🛠 设计工具 top 3：`MengTo Three.js 互动塔楼站 80` · `Dialkit 单滑块圆角 75` · `Runway Seedance 2.5（50 角色参考）75`
+
+🎨 AI 绘图模型 top 3：`Grok Imagine Image 2.0（转推）30` · `NVIDIA Nemotron 3.5 Lightning 12` · `蚂蚁 Ling-3.0-tiny 开源 8`
+
+💡 设计技巧 top 3：`PixVerse Batu + Seedance 2.5 控制 65` · `ridd_design 谈 Claude Design 交互 60` · `FigureLabs AI 生成可编辑科研图表 60`
+
+🌐 行业动态 top 3：`API 漏洞可读取 ChatGPT 隐藏推理 15` · `amasad 转推 Replit 安全扫描 12` · `amasad 转推"自运行公司"10`
+
+远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-12.md
 
 ---
 

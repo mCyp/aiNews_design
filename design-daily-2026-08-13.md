@@ -538,7 +538,7 @@ Replit CEO amasad 转发 stkenned 关于 Replit 一夜成功长路的深度长�
 ## 📤 推送记录
 
 **推送时间**：2026-08-13 09:11 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**Commit**：`a336538` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
 **远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-13.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
@@ -546,7 +546,7 @@ Replit CEO amasad 转发 stkenned 关于 Replit 一夜成功长路的深度长�
 
 📅 AI 设计日报 · 2026-08-13
 
-Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`）
+Push 状态：✅ 已提交并推送到 origin/main（commit `a336538`）
 
 🌟 要闻提示：`LTX-2.5 视频模型发布 90` · `Luma 上线 FLUX 3 多模态 85` · `Runway 上线 LTX-2.5 85`
 
@@ -566,4 +566,4 @@ Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`）
 
 ---
 
-[step 4 done] aiNews_design/design-daily-2026-08-13.md | sections=官方(16) 设计工具(10) AI绘图(9) 技巧(10) 行业(3) | total=48 | commit={CONTENT_HASH} | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-13.md
+[step 4 done] aiNews_design/design-daily-2026-08-13.md | sections=官方(16) 设计工具(10) AI绘图(9) 技巧(10) 行业(3) | total=48 | commit=a336538 | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-13.md

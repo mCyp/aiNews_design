@@ -566,4 +566,4 @@ Push 状态：✅ 已提交并推送到 origin/main（commit `a336538`）
 
 ---
 
-[step 4 done] aiNews_design/design-daily-2026-08-13.md | sections=官方(16) 设计工具(10) AI绘图(9) 技巧(10) 行业(3) | total=48 | commit=a336538 | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-13.md
+[step 4 done] aiNews_design/design-daily-2026-08-13.md | sections=官方(16) 设计工具(10) AI绘图(9) 技巧(10) 行业(3) | total=48 | commit=a336538 | head=b3b7a39 | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-13.md

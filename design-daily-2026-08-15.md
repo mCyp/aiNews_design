@@ -1033,7 +1033,7 @@ OpenAI and Anthropic in price war as Chinese AI rivals gain ground
 ## 📤 推送记录
 
 **推送时间**：2026-08-15 08:46 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**Commit**：`8d68901` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
 **远程地址**：https://github.com/<owner>/<repo>/blob/main/design-daily-2026-08-15.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
@@ -1041,7 +1041,7 @@ OpenAI and Anthropic in price war as Chinese AI rivals gain ground
 
 📅 AI 设计日报 · 2026-08-15
 
-Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`)
+Push 状态：✅ 已提交并推送到 origin/main（commit `8d68901`)
 
 🌟 要闻提示：`Lovart × Seedance 2.5 室内设计 40` · `Figma 推出 Pretty/Balance 排版 50` · `Qwen3.8 借 TokenSpeed 大规模部署 70`
 
@@ -1057,8 +1057,8 @@ Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`)
 
 🌐 行业动态 top 3：`Cursor 正式被 SpaceX 收购 5` · `Claude 文本水印机制如何运作 0` · `OpenAI vs Anthropic 价格战 0`
 
-远程地址：{FILE_URL}
+远程地址：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-15.md
 
 ---
 
-[step 4 done] aiNews_design/design-daily-2026-08-15.md | sections=官方(75) 设计工具(10) AI绘图(3) 技巧(10) 行业(3) | total=101 | commit={CONTENT_HASH} | head={PUSH_HEAD} | push=origin/main | feishu=sent | url={FILE_URL}
+[step 4 done] aiNews_design/design-daily-2026-08-15.md | sections=官方(75) 设计工具(10) AI绘图(3) 技巧(10) 行业(3) | total=101 | commit=8d68901 | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-15.md

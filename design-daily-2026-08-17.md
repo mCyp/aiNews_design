@@ -280,7 +280,7 @@ amasad 反驳「AI 集中权力」论：125 年算力性价比超指数增长证
 ## 📤 推送记录
 
 **推送时间**：2026-08-17 08:51 +0800
-**Commit**：`{CONTENT_HASH}` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
+**Commit**：`9e1983e` 已 git commit 并推送到 `aiNews_design` 仓库 origin/main
 **远程地址**：https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-17.md
 **格式**：飞书简要（要闻提示 top 3 + 5 个版块 top 3 + push 状态 + 远程地址）
 
@@ -288,7 +288,7 @@ amasad 反驳「AI 集中权力」论：125 年算力性价比超指数增长证
 
 📅 AI 设计日报 · 2026-08-17
 
-Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`)
+Push 状态：✅ 已提交并推送到 origin/main（commit `9e1983e`)
 
 🌟 要闻提示：`OpenAI 转发 Codex × Ril… 60` · `DeepSeek Harness 3 天斩… 100` · `Meng To：Codex 通过 MCP … 100`
 
@@ -304,4 +304,4 @@ Push 状态：✅ 已提交并推送到 origin/main（commit `{CONTENT_HASH}`)
 
 ---
 
-[step 4 done] aiNews_design/design-daily-2026-08-17.md | sections=官方(3) 设计工具(10) AI绘图(1) 技巧(10) 行业(3) | total=27 | commit={CONTENT_HASH} | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-17.md
+[step 4 done] aiNews_design/design-daily-2026-08-17.md | sections=官方(3) 设计工具(10) AI绘图(1) 技巧(10) 行业(3) | total=27 | commit=9e1983e | head={PUSH_HEAD} | push=origin/main | feishu=sent | url=https://github.com/mCyp/aiNews_design/blob/main/design-daily-2026-08-17.md
